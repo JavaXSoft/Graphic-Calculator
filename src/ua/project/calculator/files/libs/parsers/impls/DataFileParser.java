@@ -11,7 +11,7 @@ import java.util.HashMap;
  * <p>Т.е. в одной строке содержится несколько значений. Он ищет это всё, и потом - возвращает
  * <tt>HashMap (String -> String, имя -> значение)</tt> со всеми именами параметров и их значениями.</p>
  *
- * @author Дмитрий Мелешко
+ * @author Глущенко Павло
  * @since 1.8.3
  * @see DataFileParser#parse(String)
  */

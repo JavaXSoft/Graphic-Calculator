@@ -33,7 +33,7 @@ import java.util.*;
  * Также, в классе есть HashMap с всеми известными переменными. А для общения с этим HashMap'ом,
  * Есть класс с диалоговыми окнами.
  *
- * @author Дмитрий Мелешко
+ * @author Глущенко Павло
  * @since 1.7
  * @see JCalculatorDialogs
  * @see VariableParser#processText(String, boolean)
