@@ -2,6 +2,7 @@ package ua.project.calculator.files.libs;
 
 import java.util.Objects;
 
+@SuppressWarnings("ALL")
 public class ArrayUtils {
     public static int[] deleteItem(int[] array, int index) {
         int[] out = new int[array.length - 1];
